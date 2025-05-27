@@ -1,0 +1,4 @@
+Please, to run project.py install the following libraries:
+    pip install pillow
+    pip install numpy
+    pip install opencv-python
