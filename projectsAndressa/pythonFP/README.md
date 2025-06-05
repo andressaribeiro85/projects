@@ -1,4 +1,4 @@
-  # PLAYING WWITH IMAGES
+  # PLAYING WITH IMAGES
     #### Video Demo:  https://youtu.be/Lx5ng5Y8jyo
     #### Description:
     The idea in this project is to submit an image and generate three more images with different filters, as well you can see the analysis of these images in the analysis.csv file.
